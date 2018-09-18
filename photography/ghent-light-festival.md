@@ -11,9 +11,9 @@ Mackinac Island 7-7-18 at the Grand Hotel.
 
 The pictures from part two:
 
-{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=2 %}
+<!-- {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=2 %} -->
 
 Thanks for all of the love and support!
 
-[license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[repo]: https://github.com/opieters/jekyll-gallery-example
+<!-- [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[repo]: https://github.com/opieters/jekyll-gallery-example -->
